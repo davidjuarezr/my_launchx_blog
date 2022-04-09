@@ -7,6 +7,9 @@ Hola ✌️  soy el explorer **launch07043** y este es mi blog personal donde co
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas
+Aprender bien Git y GitHup
+Mejorar en FrontEnd y BackEnd
 
 
 🚀
