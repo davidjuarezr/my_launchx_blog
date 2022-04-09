@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Mi avances"
 date: 2022-04-08
-description: 'Descripción de tu blog post'
+description: 'Mis espectativas fueron superadas'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Desde que inicie he aprendido mucho gracias a LaunchX, en estas semanas se noto el cambio en mis conocimientos.
