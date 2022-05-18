@@ -18,15 +18,15 @@ Semana 1
 
 Objetivo
 
-Comensar a familiarizarme en el mundo de Javascript como lenguaje de programación, para comprender como funciona con Node JS y como poder usarlo
+Comenzar a familiarizarme en el mundo de Javascript como lenguaje de programación, para comprender como funciona con Node JS y como poder usarlo
 
 Aventuras
 
 * Importancia de las herramientas en el desarrollo de software Git y Github
 * Javascript como lenguaje de programación y Node JS como entorno de ejecución
-* Scrpting (Módulos, contextos, ES6, CommonJS, MPM)
+* Scripting (Módulos, contextos, ES6, CommonJS, MPM)
 
-En esta semana aprendi:
+En esta semana aprendí:
 
 * Importancia de Git y GitHub
 * Javascript como lenguaje de programación
@@ -35,7 +35,7 @@ En esta semana aprendi:
 * Clonar el proyecto en mi repositorio local
 * Uso de Markdown
 * Conocer GoHugo para la creación de mi blog
-* Instalacion de NodeJs
+* Instalación de NodeJs
   * para comprobar la instalación, abrir una terminal y escribir el siguiente comando:
   * node --version
   * crear un archivo con la extension .js
@@ -54,7 +54,7 @@ Semana 2
 
 Objetivo
 
-Enfocarme más en el lenguaje de Javascript en el uso de objetos, manipulación de estructuras de datos y orintación a objetos
+Enfocarme más en el lenguaje de Javascript en el uso de objetos, manipulación de estructuras de datos y orientación a objetos
 
 Aventuras
 
@@ -65,7 +65,7 @@ Aventuras
 * Modularización de archivos
 * Pruebas Unitarias
 
-En esta semana aprendi:
+En esta semana aprendí:
 
 * Importancia de Git y GitHub
 * Javascript como lenguaje de programación
@@ -84,7 +84,7 @@ En esta semana aprendi:
   * Lists
 * Como hacer un fork de un repositorio en mi perfil de GitHub
 * Clonar el proyecto en mi repositorio local
-* Instalacion de NodeJs
+* Instalación de NodeJs
 * Exportar funciones entre scripts con CommonJS
 * Lectura de archivos json
 
@@ -93,7 +93,7 @@ Semana 3
 Objetivos
 
 * Creación de proyectos de JS
-* Uso de NPM para iniciaizar proyectos y agregar dependencias
+* Uso de NPM para inicializar proyectos y agregar dependencias
 * Uso de Jest como Framework de pruebas de unidad
 * Modularización de archivos, (exportar e importar)
 * Creación de estructuras de directorios para nuestros proyectos
@@ -103,12 +103,12 @@ Objetivos
 * Creación de una API con Express (GET, POST, PUT, DELETE)
 * Pruebas de endpoint con Postman
 
-En esta semana aprendi:
+En esta semana aprendí:
 
 * Crear proyectos de JS
 * Importancia de pruebas de unidad
 * Uso de Jest
-* Como exportar exportar e importar modulos de JS
+* Como exportar e importar módulos de JS
 * Uso de NPM
 * Uso de Express JS
 * Creación de API básica con express (GET, POST, PUT, DEETE)
@@ -124,7 +124,7 @@ Creación de proyectos de JS
 Diseño de Software con TDD
 
 * Crear nuevo proyecto de JS
-* Agregar una prueba de unidad vacia
+* Agregar una prueba de unidad vacía
 * Test Driven Development
   * Crear una prueba
   * Crear el código para que funcione la prueba
@@ -150,9 +150,9 @@ Objetivo
 * Exploración de API real
 * Exploración de proyectos js
 
-En esta semana aprendi:
+En esta semana aprendí:
 
-* Familiarizarme con las herramietnas
+* Familiarizarme con las herramientas
 * Seguir usando pruebas como algo cotidiano en cada proyecto
 * adquirir la habilidad de abstraer problemas y resolverlos
 * Construir y aportar a proyectos
@@ -175,9 +175,9 @@ Semana 5
 Objetivos
 
 * Usar dependencias e integrarlas en proyectos
-* Aprender el uso de SQL para base de datps relacionales
+* Aprender el uso de SQL para base de datos relacionales
 * Uso de ORM's para la implementación de DB en JS
-* Conectar una app fullstak mediante la aquitectura de cliente- Servidor
+* Conectar una app fullstak mediante la arquitectura de cliente- Servidor
 
 En esta semana quedo pendiente:
 
